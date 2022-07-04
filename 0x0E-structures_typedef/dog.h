@@ -1,21 +1,3 @@
-
-betascribbles
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-alx-low_level_programming/0x0E-structures_typedef/dog.h
-@betascribbles
-betascribbles completed tasks
- 1 contributor
-32 lines (27 sloc)  562 Bytes
 #ifndef DOG_H
 #define DOG_H
 
